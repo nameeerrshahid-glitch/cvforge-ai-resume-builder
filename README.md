@@ -31,7 +31,7 @@ Built using a modern AI app builder (Base44), CVForge focuses on simplifying res
 
 ## 🚀 Live Demo
 
-👉 https://YOUR-BASE44-LIVE-LINK
+👉 https://remarkable-cv-forge-flow.base44.app/
 
 ---
 
