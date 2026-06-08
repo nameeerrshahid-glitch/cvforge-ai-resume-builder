@@ -27,6 +27,9 @@ Built using a modern AI app builder (Base44), CVForge focuses on simplifying res
 - Node-style modular architecture
 
 ---
+##Screenshots
+Dashboard
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/507a13ee-4d0a-4d1b-9a10-def7ef220df8" />
 
 
 ## 🚀 Live Demo
