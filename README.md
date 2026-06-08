@@ -27,9 +27,24 @@ Built using a modern AI app builder (Base44), CVForge focuses on simplifying res
 - Node-style modular architecture
 
 ---
-##Screenshots
-Dashboard
-<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/507a13ee-4d0a-4d1b-9a10-def7ef220df8" />
+## 📸 Screenshots
+
+> Add your 4 screenshots here
+
+### Home Page
+<img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/5bd9f8c3-ebd5-4569-8324-3984bc9c0f1a" />
+
+
+### Dashboard
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/639f12db-5f8e-445d-99fc-f2a79342848e" />
+
+
+### ATS Score
+<img width="1004" height="647" alt="image" src="https://github.com/user-attachments/assets/d83409aa-7807-45ec-a614-efb846a011fe" />
+
+
+### Resume Builder
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/89f9aa45-71e2-4996-b69c-1d649484698e" />
 
 
 ## 🚀 Live Demo
